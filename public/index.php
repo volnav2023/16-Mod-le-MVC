@@ -8,11 +8,11 @@ require __DIR__ . '\..\vendor\autoload.php';
 
 echo 'Ici index.php<br>';
 
-$class1 = new User();
-$class1->test();
+//initiate the triad
+$model = new Model();
 
-$dbase = new Dbase();
-$dbase->open('localhost', '14-online-advisor', 'root','');
-// $dbase->query();
+//It is important that the controller and the view share the model
+$controller = new Controller($model);
+$view = new View($model);
 
-$class1->create("toto@flechet.com","mdp");
+echo $view->output();
