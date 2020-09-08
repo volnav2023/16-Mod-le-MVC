@@ -12,5 +12,7 @@ class Controller {
     }
 
     public function control($url) {
+        echo $url;
+        $this->model->text = sprintf("Hello %s", $url);
     }
 }
