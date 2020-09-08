@@ -21,6 +21,14 @@ class ComposerStaticInit1a23b367e91cf02eae1ad51a8cdb59e3
         array (
             'Webmozart\\Assert\\' => 17,
         ),
+        'V' => 
+        array (
+            'Views\\' => 6,
+        ),
+        'T' => 
+        array (
+            'Test\\' => 5,
+        ),
         'S' => 
         array (
             'Symfony\\Polyfill\\Ctype\\' => 23,
@@ -30,10 +38,18 @@ class ComposerStaticInit1a23b367e91cf02eae1ad51a8cdb59e3
             'Prophecy\\' => 9,
             'PhpParser\\' => 10,
         ),
+        'M' => 
+        array (
+            'Models\\' => 7,
+        ),
         'D' => 
         array (
             'Doctrine\\Instantiator\\' => 22,
             'DeepCopy\\' => 9,
+        ),
+        'C' => 
+        array (
+            'Controllers\\' => 12,
         ),
         'A' => 
         array (
@@ -52,6 +68,14 @@ class ComposerStaticInit1a23b367e91cf02eae1ad51a8cdb59e3
         array (
             0 => __DIR__ . '/..' . '/webmozart/assert/src',
         ),
+        'Views\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/views',
+        ),
+        'Test\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/tests',
+        ),
         'Symfony\\Polyfill\\Ctype\\' => 
         array (
             0 => __DIR__ . '/..' . '/symfony/polyfill-ctype',
@@ -64,6 +88,10 @@ class ComposerStaticInit1a23b367e91cf02eae1ad51a8cdb59e3
         array (
             0 => __DIR__ . '/..' . '/nikic/php-parser/lib/PhpParser',
         ),
+        'Models\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/models',
+        ),
         'Doctrine\\Instantiator\\' => 
         array (
             0 => __DIR__ . '/..' . '/doctrine/instantiator/src/Doctrine/Instantiator',
@@ -71,6 +99,10 @@ class ComposerStaticInit1a23b367e91cf02eae1ad51a8cdb59e3
         'DeepCopy\\' => 
         array (
             0 => __DIR__ . '/..' . '/myclabs/deep-copy/src/DeepCopy',
+        ),
+        'Controllers\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/controllers',
         ),
         'App\\' => 
         array (

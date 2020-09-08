@@ -20,18 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a7276e0-151f-4745-b3cc-f80872e05675" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/controllers/index_controller.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/index_view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/16-Modèle-MVC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/16-Modèle-MVC.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/index_controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/index_controller.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/models/index_model.php" beforeDir="false" afterPath="$PROJECT_DIR$/models/index_model.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dbase.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/User.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/DbaseTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/UserTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/hello/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/index/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/index_view.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/index_view.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +117,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599323700115</updated>
       <workItem from="1599323702140" duration="782000" />
-      <workItem from="1599514456109" duration="4242000" />
+      <workItem from="1599514456109" duration="9418000" />
     </task>
     <task id="LOCAL-00001" summary="Dans une impasse, avant rollback.">
       <created>1599519780577</created>
@@ -129,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599519780577</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Redémarre sur une base plus simple.">
+      <created>1599520868333</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599520868333</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,9 +153,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Dans une impasse, avant rollback." />
-    <option name="LAST_COMMIT_MESSAGE" value="Dans une impasse, avant rollback." />
+    <MESSAGE value="Redémarre plus simple." />
+    <MESSAGE value="Redémarre sur une base plus simple." />
+    <option name="LAST_COMMIT_MESSAGE" value="Redémarre sur une base plus simple." />
   </component>
   <component name="WindowStateProjectService">
+    <state x="667" y="152" key="#PHP" timestamp="1599546384709">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state x="667" y="152" key="#PHP/0.0.1920.1019@0.0.1920.1019" timestamp="1599546384709" />
     <state x="754" y="232" key="NewPhpClassDialog" timestamp="1599515638441">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>

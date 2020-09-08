@@ -1,4 +1,9 @@
 <?php
+
+namespace Views;
+
+use Models\Model;
+
 class View {
     private $model;
 

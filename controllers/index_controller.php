@@ -1,4 +1,9 @@
 <?php
+
+namespace Controllers;
+
+use Models\Model;
+
 class Controller {
     private $model;
 
