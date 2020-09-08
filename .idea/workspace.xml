@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a7276e0-151f-4745-b3cc-f80872e05675" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/controllers/index_controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/index_controller.php" afterDir="false" />
-    </list>
+    <list default="true" id="0a7276e0-151f-4745-b3cc-f80872e05675" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -109,7 +107,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599323700115</updated>
       <workItem from="1599323702140" duration="782000" />
-      <workItem from="1599514456109" duration="17547000" />
+      <workItem from="1599514456109" duration="17960000" />
     </task>
     <task id="LOCAL-00001" summary="Dans une impasse, avant rollback.">
       <created>1599519780577</created>
@@ -139,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599569574179</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Ajouté capture et passage de l'url au controller">
+      <created>1599570116245</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1599570116245</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,7 +168,8 @@
     <MESSAGE value="Redémarre sur une base plus simple." />
     <MESSAGE value="Hello World display only ok !" />
     <MESSAGE value="Ajouté capture et passage de l'url au controller" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ajouté capture et passage de l'url au controller" />
+    <MESSAGE value="Modification du texte par controller et affichage par la view, ok." />
+    <option name="LAST_COMMIT_MESSAGE" value="Modification du texte par controller et affichage par la view, ok." />
   </component>
   <component name="WindowStateProjectService">
     <state x="667" y="152" key="#PHP" timestamp="1599546384709">
@@ -182,9 +188,9 @@
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
     <state x="794" y="433" key="NewPhpFileDialog/0.0.1920.1019@0.0.1920.1019" timestamp="1599554803001" />
-    <state x="552" y="242" key="Vcs.Push.Dialog.v2" timestamp="1599569581315">
+    <state x="552" y="242" key="Vcs.Push.Dialog.v2" timestamp="1599570118383">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state x="552" y="242" key="Vcs.Push.Dialog.v2/0.0.1920.1019@0.0.1920.1019" timestamp="1599569581315" />
+    <state x="552" y="242" key="Vcs.Push.Dialog.v2/0.0.1920.1019@0.0.1920.1019" timestamp="1599570118383" />
   </component>
 </project>
